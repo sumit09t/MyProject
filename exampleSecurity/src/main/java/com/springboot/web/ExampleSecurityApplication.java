@@ -8,6 +8,7 @@ public class ExampleSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExampleSecurityApplication.class, args);
+		System.out.println("d");
 	}
 
 }
